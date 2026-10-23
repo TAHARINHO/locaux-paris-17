@@ -1,0 +1,3 @@
+id,statut,prix_vente_eur,surface_carrez_m2,prix_m2_eur_arrondi,loyer_annuel_hors_charges_eur,rendement_brut_pct,taxe_fonciere_2026_eur
+libre,Libre de toute occupation,650000,76.8,8460,,,1098
+loue,Vendu occupé,650000,77.4,8400,38602,5.9,1111

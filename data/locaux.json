@@ -1,0 +1,64 @@
+{
+  "titre": "Deux locaux à vendre, Paris 17e",
+  "localisation": "Paris 17e (adresse communiquée après accord de confidentialité)",
+  "mise_a_jour": "2026-10-23",
+  "locaux": [
+    {
+      "id": "libre",
+      "libelle": "Local de bureaux libre",
+      "statut": "Libre de toute occupation",
+      "prix_vente_eur": 650000,
+      "surface_carrez_m2": 76.8,
+      "prix_m2_eur_arrondi": 8460,
+      "niveau": "Rez-de-chaussée, vitrine sur rue",
+      "annexe": "Cave rattachée au lot, hors surface Carrez",
+      "composition_m2": {
+        "Espace ouvert et placards": 43.15,
+        "Bureau 1": 8.4,
+        "Bureau 2": 12.2,
+        "Bureau 3": 9.85,
+        "WC": 1.25,
+        "Cabine": 1.2,
+        "Lavabo": 0.75
+      },
+      "taxe_fonciere_2026_eur": 1098,
+      "diagnostics": "Juin 2026 : pas d'amiante repéré, pas d'indice de termites, DPE vierge (sans étiquette énergie)",
+      "photos": [
+        "images/vide_hero.jpg",
+        "images/vide_g1.jpg",
+        "images/vide_g2.jpg",
+        "images/vide_g3.jpg",
+        "images/vide_g4.jpg"
+      ],
+      "fiche_pdf": "fiches/fiche-local-libre-paris-17.pdf"
+    },
+    {
+      "id": "loue",
+      "libelle": "Local loué, bail commercial en place",
+      "statut": "Vendu occupé",
+      "prix_vente_eur": 650000,
+      "surface_carrez_m2": 77.4,
+      "prix_m2_eur_arrondi": 8400,
+      "niveau": "Rez-de-chaussée sur rue et sous-sol relié par un escalier intérieur",
+      "loyer_mensuel_hors_charges_eur": 3216.85,
+      "loyer_annuel_hors_charges_eur": 38602,
+      "rendement_brut_pct": 5.9,
+      "rendement_brut_definition": "Loyer annuel hors charges divisé par le prix de vente, avant frais d'acquisition",
+      "bail": "Commercial 3/6/9, signé en 2011, indexation annuelle, charges et taxes à la charge du locataire",
+      "taxe_fonciere_2026_eur": 1111,
+      "diagnostics": "Juin 2026 : pas d'amiante repéré, pas d'indice de termites, DPE vierge (sans étiquette énergie)",
+      "photos": [
+        "images/ecole_hero.jpg",
+        "images/ecole_g1.jpg",
+        "images/ecole_g2.jpg"
+      ],
+      "fiche_pdf": "fiches/fiche-local-loue-paris-17.pdf"
+    }
+  ],
+  "immeuble": "Copropriété de 1950, 56 lots",
+  "contact": {
+    "email": "infos@tr7agencystudio.com",
+    "rendez_vous": "https://app.iclosed.io/e/TR7AgencyStudio"
+  },
+  "mentions": "Informations non contractuelles. Surfaces Carrez issues des certificats de juin 2026."
+}
